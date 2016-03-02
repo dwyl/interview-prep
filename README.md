@@ -8,9 +8,13 @@ Sign up for any services the company provide as part of your research.
 
 Be prepared to complete a Javascript task with the interviewer looking over your shoulder.
 
-### Sample questions
+### Competency questions
 
 How has your project experience aligned to what we're trying to achieve?
+
+What has been the most difficult application you've built?
+
+What technology do you most want to learn next?
 
 ### Wireframing
 
@@ -26,6 +30,7 @@ What do you expect from me as a scrum master?
 
 How do you tend to organise tasks?
 
+What's your development environment?
 
 ### General Technical
 
@@ -35,10 +40,15 @@ What is an object-oriented language?
 
 What area of development are you most interested in? (planning, frontend, backend)
 
+What happens when you go  on  a web page? (in terms of requests, server)
+
+If you inherited a website and it was slow, how would you improve it?
 
 ### Security
 
 How can we best prevent script injections?
+
+How would you make sure your application is secure against hackers or malicious attacks?
 
 ### Databases
 
@@ -46,11 +56,9 @@ What are the different advantages of NoSQL and SQL databases?
 
 What are the main threats to website security?
 
-
 What does Map Reduce mean in databases?
 
 How would you scale a socket?
-
 
 ### Feedback on Technical Tests
 
