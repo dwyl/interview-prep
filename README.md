@@ -16,6 +16,10 @@ What has been the most difficult application you've built?
 
 What technology do you most want to learn next?
 
+You're working in a project that involves two teams. If the other team criticizes your work, what happens?
+
+What kind of manager are you looking for?
+
 ### Wireframing
 
 How have you gone from recording user stories to breaking them out into tasks to build?
